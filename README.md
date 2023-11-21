@@ -40,6 +40,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sonicgokai/sonicgokai/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/sonicgokai/sonicgokai/blob/main/snake.svg" alt="Snake animation" />
 
 ###
